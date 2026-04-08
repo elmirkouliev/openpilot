@@ -1,15 +1,15 @@
 [submodule "panda"]
   path = panda
-  url = ../../elmirkouliev/panda.git
+  url = ../../commaai/panda.git
 [submodule "msgq"]
   path = msgq_repo
-  url = ../../elmirkouliev/msgq.git
+  url = ../../commaai/msgq.git
 [submodule "rednose_repo"]
   path = rednose_repo
-  url = ../../elmirkouliev/rednose.git
+  url = ../../commaai/rednose.git
 [submodule "teleoprtc_repo"]
   path = teleoprtc_repo
-  url = ../../elmirkouliev/teleoprtc
+  url = ../../commaai/teleoprtc
 [submodule "tinygrad"]
   path = tinygrad_repo
   url = https://github.com/tinygrad/tinygrad.git
